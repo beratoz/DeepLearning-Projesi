@@ -1,0 +1,110 @@
+# ============================================
+# KENDİ DOSYA VE KLASÖRLERİM
+# ============================================
+
+# Klasörler
+diger_modeller_rapor_ve_ornekler/
+
+# Word ve PDF dosyaları
+2209A_Derin_Ogrenme.docx
+2209A_Derin_Ogrenme.pdf
+ssrn_id300.pdf
+ssrn_makalesi_ile_karşilaştirma.pdf
+
+# Sunum dosyaları
+SP500_DerinOgrenme_Sunum.pdf
+SP500_DerinOgrenme_Sunum.pptx
+
+# Excel veri dosyaları
+sp500_deep_learning_massive_data.xlsx
+sp500_olay_calismasi_ham_veri.xlsx
+
+
+# ============================================
+# VERİ DOSYALARI (büyük olduğu için GitHub'a gitmesin)
+# ============================================
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.pickle
+*.npy
+*.npz
+data/
+datasets/
+
+
+# ============================================
+# MODEL DOSYALARI (eğitilmiş ağırlıklar)
+# ============================================
+*.keras
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.ckpt
+*.joblib
+saved_models/
+checkpoints/
+logs/
+tensorboard/
+
+
+# ============================================
+# PYTHON
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+
+# ============================================
+# SANAL ORTAMLAR
+# ============================================
+venv/
+env/
+.venv/
+.env/
+
+
+# ============================================
+# JUPYTER NOTEBOOK
+# ============================================
+.ipynb_checkpoints/
+
+
+# ============================================
+# ORTAM DEĞİŞKENLERİ ve GİZLİ BİLGİLER
+# ============================================
+.env
+.env.local
+*.key
+secrets.json
+
+
+# ============================================
+# IDE / EDİTÖR AYARLARI
+# ============================================
+.vscode/
+.idea/
+*.swp
+
+
+# ============================================
+# İŞLETİM SİSTEMİ DOSYALARI
+# ============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+# ============================================
+# GEÇİCİ DOSYALAR
+# ============================================
+*.log
+*.tmp
+*.bak
