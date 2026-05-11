@@ -218,7 +218,7 @@ Literatürde günlük yön tahmininde %54–58 normaldir. %60+ değerler çoğun
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/<kullanici_adin>/sp500-feedforward-prediction.git
+git clone https://github.com/beratoz/sp500-feedforward-prediction.git
 cd sp500-feedforward-prediction
 
 # Sanal ortam oluştur (önerilir)
